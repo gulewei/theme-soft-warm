@@ -1,13 +1,15 @@
-# README
-## This is the README for your extension "theme-soft-warm"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Base theme: 绿柔-温暖
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+## Use: 
+### 将生成文件拷贝至用户文件夹下的 .vscode/extensions 目录，即可在本地使用
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## develop:
 
-**Enjoy!**
+```
+$ npm install -g yo generator-code
+```
+```
+$ yo code
+```
+
+

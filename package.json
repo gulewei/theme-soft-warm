@@ -1,0 +1,22 @@
+{
+    "name": "theme-soft-warm",
+    "displayName": "Soft Warm Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "gulewei",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "绿柔-温暖",
+                "uiTheme": "vs",
+                "path": "./themes/Soft-light.tmTheme"
+            }
+        ]
+    }
+}
